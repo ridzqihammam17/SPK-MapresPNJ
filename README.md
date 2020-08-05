@@ -1,6 +1,6 @@
 ## SPK-MapresPNJ
 
-Projek Web Sistem Pendukung Keputusan (SPK) untuk membantu admin atau panitia mapres dalam menyeleksi Mahasiswa Berprestasi yang ada di lingkungan kampus
+Mini Projek Web untuk Mata Kuliah Sistem Pendukung Keputusan (SPK) berfungsi untuk membantu admin dan panitia mapres dalam menyeleksi Mahasiswa Berprestasi yang ada di lingkungan kampus
 
 ### Tools Used
 
