@@ -16,6 +16,3 @@ Projek Web Sistem Pendukung Keputusan (SPK) untuk membantu admin atau panitia ma
 2. Add Mahasiswa
 3. Add Criteria
 4. Preview Score
-
-## Preview Web
-
